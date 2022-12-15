@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "583537050387",
+    "project_id": "myappshop-70b3b",
+    "storage_bucket": "myappshop-70b3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583537050387:android:fdc67c4a162fbc323950e6",
+        "android_client_info": {
+          "package_name": "com.aristidevs.nuwelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583537050387-ase1vorsp3tj9ii8r9lp6si6tksv8uuu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAceL9qfiVPCLXFjVbYcadgQUE8nmSnvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583537050387-ase1vorsp3tj9ii8r9lp6si6tksv8uuu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583537050387:android:6743fea6c8d7511d3950e6",
+        "android_client_info": {
+          "package_name": "idat.edu.pe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583537050387-ase1vorsp3tj9ii8r9lp6si6tksv8uuu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAceL9qfiVPCLXFjVbYcadgQUE8nmSnvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583537050387-ase1vorsp3tj9ii8r9lp6si6tksv8uuu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

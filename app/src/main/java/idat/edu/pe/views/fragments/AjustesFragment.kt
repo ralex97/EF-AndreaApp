@@ -1,0 +1,32 @@
+package idat.edu.pe.views.fragments
+
+import android.os.Bundle
+import androidx.fragment.app.Fragment
+import android.view.LayoutInflater
+import android.view.View
+import android.view.ViewGroup
+import android.widget.Switch
+import androidx.viewbinding.ViewBindings
+import idat.edu.pe.R
+import idat.edu.pe.databinding.FragmentAjustesBinding
+
+
+class AjustesFragment : Fragment() {
+
+
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+
+    }
+
+    override fun onCreateView(
+        inflater: LayoutInflater, container: ViewGroup?,
+        savedInstanceState: Bundle?
+    ): View? {
+        // Inflate the layout for this fragment
+        return inflater.inflate(R.layout.fragment_ajustes, container, false)
+
+    }
+
+
+}

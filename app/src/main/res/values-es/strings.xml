@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Andrea Cosmetic</string>
+    <string name="btnIniciarSesion">Iniciar Sesión</string>
+    <string name="btnRegistrar">Registrarse</string>
+    <string name="textemail">Ingrese su Email</string>
+    <string name="textpassword">Ingrese su contraseña</string>
+    <string name="textrepiteContra">Repita su contraseña</string>
+    <string name="textnombre">Ingrese su nombre de usuario</string>
+    <string name="textOlvidasteContra">Te olvidaste tú contraseña?</string>
+    <string name="textCuenta">No tienes una cuenta? Registrate aquí</string>
+    <string name="textTienesCuenta">Tienes una cuenta? Inicia sesión aquí</string>
+    <string name="errorNombre">Ingrese un nombre</string>
+    <string name="errorApellido">Ingrese un apellido</string>
+    <string name="errorEmail">Ingrese un correo correo</string>
+    <string name="errorPassword">Ingrese una contraseña</string>
+    <string name="alertLogin">Correo o contraseña incorrecta</string>
+    <string name="errorInvalidCorreo">El formato del Correo no es invalido</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="agregar">Agregar</string>
+    <string name="Aplicar">Aplicar</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="total">Total</string>
+    <string name="cambio">Cambiar de idioma a ingles</string>
+    <string name="subtitle_check_email">Para completar su registro. ¡Por favor! verifica su correo y después de clic en continuar.</string>
+    <string name="continue_check_email">Continuar</string>
+    <string name="subtitle_account_recovery">Ingresa tu email para que se te pueda enviar un correo con los pasos para cambiar tu contraseña.</string>
+    <string name="checkEmail">Se envio un correo de verificacion</string>
+</resources>

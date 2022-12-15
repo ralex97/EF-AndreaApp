@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Andrea Cosmetic</string>
+    <string name="btnIniciarSesion">Log in</string>
+    <string name="btnRegistrar">Check in</string>
+    <string name="textemail">Enter your Email</string>
+    <string name="textpassword">Enter your password</string>
+    <string name="textrepiteContra">Repita su contraseña</string>
+    <string name="textnombre">repeat your password</string>
+    <string name="textOlvidasteContra">Forgot your password?</string>
+    <string name="textCuenta">You do not have an account? sign up here</string>
+    <string name="textTienesCuenta">You have an account? log in here</string>
+    <string name="errorNombre">Enter a name</string>
+    <string name="errorApellido">Enter a last name</string>
+    <string name="errorEmail">Enter an email email</string>
+    <string name="errorPassword">Enter a password</string>
+    <string name="alertLogin">Wrong email or password</string>
+    <string name="errorInvalidCorreo">The format of the Mail is not invalid</string>
+    <string name="subtitle_check_email">To complete your registration. Please! Check your email and then click continue.</string>
+    <string name="continue_check_email">Continuar</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="agregar">Agregar</string>
+    <string name="Aplicar">Aplicar</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="total">Total</string>
+    <string name="cambio">switch to spanish language</string>
+    <string name="subtitle_account_recovery">Ingresa tu email para que se te pueda enviar un correo con los pasos para cambiar tu contraseña.</string>
+    <string name="checkEmail">Se envio un correo de verificacion</string>
+</resources>
